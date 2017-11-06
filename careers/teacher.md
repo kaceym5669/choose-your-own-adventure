@@ -6,4 +6,4 @@ Salary:60,000
 
 
 would you like to get married?
-[yes](../marrige.md) [no](../homehouse.md)
+[yes](../marrige.md) [no](../home/house.md)

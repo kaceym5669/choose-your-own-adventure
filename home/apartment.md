@@ -2,4 +2,4 @@ You choose your apartment, and wether you decied to get married or not you own t
 
 Your spouse tragically dies and you decied it would be best if you retired. 
 
-[retierment](../retierment.)
+[retierment](../retirement.md)

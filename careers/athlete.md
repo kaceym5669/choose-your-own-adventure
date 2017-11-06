@@ -5,4 +5,4 @@
 
 would you like to get married?
 
-[yes](../marrige.md) [no](../house.md)
+[yes](../marrige.md) [no](../home/house.md)

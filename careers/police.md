@@ -2,4 +2,4 @@
  Salary: 40,000 
 ###### Amount of money: 60,000
  
-[yes](../marrige.md) [no](../house.md)
+[yes](../marrige.md) [no](../home/house.md)

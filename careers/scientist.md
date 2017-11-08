@@ -1,4 +1,4 @@
-##Nice pick! college really paid off!
+##  Nice pick! college really paid off!
 
 Salary:90,000
 ###### amount of money : 90,000
